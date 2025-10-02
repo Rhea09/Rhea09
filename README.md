@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rhea Dsouza</h1>
+<h1 align="center">Hi 👋, I'm Rhea D'souza</h1>
+
 - 🔭 I’m currently working on **Python Projects**
 - 🌱 I’m currently learning **AI, LLM , Agents**
 - 💞️ I’m looking to collaborate on new AI and python based tech
